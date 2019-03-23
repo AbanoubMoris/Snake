@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/Abanoub_moris/Snake.svg)](http://hits.dwyl.io/Abanoub_moris/Snake)
 # Snake
 
 # Github syntax
